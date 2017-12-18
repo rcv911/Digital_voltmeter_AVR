@@ -1,8 +1,8 @@
 ## Digital voltmeter on ATmega16
 
 Here's the task. Create program polling ADC at 10 Hz and outputs the measured voltage in volts to the 7-segment indicator block. 
-- Segment X and Y shows milivolts  
-- Segment Z shows voltes
+- Segment X and Y shows millivolts  
+- Segment Z shows volts
 > Electrical circuit connection of segments:
 ![](images/7segments.png)
 
